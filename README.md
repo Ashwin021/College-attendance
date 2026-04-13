@@ -1,4 +1,4 @@
- 𝓐𝓽𝓽𝓮𝓷𝓭𝓪𝓷𝓬𝓮 𝓢𝔂𝓼𝓽𝓮𝓶
+ATTENDANCE SYSTEM
 
 <p align="center">
   <b>✨ A Simple & Elegant PHP + MySQL Attendance Management System ✨</b>
