@@ -1,4 +1,4 @@
- Attendance System
+<b> Attendance System </b>
 
 A simple and efficient web-based attendance management system developed using PHP and MySQL.
 
